@@ -4,17 +4,17 @@
 
 ## ความรู้พื้นฐานของ Computer Science
 
-- [*] รู้จักกับ HTTP
-- [ *] การทํางานเบื้องต้นของระบบ Internet
-- [ *] DNS / Domain name และ Client - Server Model
-- [ *] การทํางานของ Web Browser
-- [ *] ความรู้พื้นฐาน Computer Network
-- [* ] ความรู้พื้นฐานเรื่อง Algorithm และ Data Structures
-- [* ] พื้นฐานความเข้าใจ ด้านระบบปฏิบัติการ
+- [x] รู้จักกับ HTTP
+- [x] การทํางานเบื้องต้นของระบบ Internet
+- [x] DNS / Domain name และ Client - Server Model
+- [x] การทํางานของ Web Browser
+- [x] ความรู้พื้นฐาน Computer Network
+- [x] ความรู้พื้นฐานเรื่อง Algorithm และ Data Structures
+- [x] พื้นฐานความเข้าใจ ด้านระบบปฏิบัติการ
 
 ## HTML/CSS
 
-- [* ] HTML พื้นฐาน
+- [x] HTML พื้นฐาน
 - [ ] CSS พื้นฐาน
 - [ ] จัดการ Layouts ของ CSS Grid, Flexbox
 - [ ] การจัดการกับฟอร์ม และ Validation
